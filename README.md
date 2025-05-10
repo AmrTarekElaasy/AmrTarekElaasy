@@ -13,7 +13,7 @@
 - 🔨 Working on different projects and enhancing my programming knowledge.
 
 **📈 Projects:**  
-- Check out my latest project: [Project-1-Bank-Extension-2](https://github.com/AmrTarekElaasy/Project-1-Bank-Extension-2)
+- Check out my latest project: [Bank_V2_C11_OOP](https://github.com/AmrTarekElaasy/Bank_V2_C11_OOP)
 
 ---
 
